@@ -1,0 +1,4 @@
+{
+  "npm-scripts.showStartNotification": false,
+  "terminal.integrated.shell.windows": "path/to/shell"
+}
